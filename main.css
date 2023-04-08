@@ -1,0 +1,66 @@
+.blue-text {
+  color: rgb(232, 234, 235);
+}
+.orange-text {
+  color: #060605;
+}
+  
+p {
+  color: rgb(219, 180, 180);
+  font-size: 22px;
+ /* text-decoration: underline;*/
+}
+
+p {
+  color: rgb(50, 50, 55);
+  font-size: 12pt;
+}
+/* rule set #1: Everything within the body tag will have a yellow background. */
+body {
+  background-color: rgb(239, 220, 174);
+}
+
+/* rule set #2: Everything within a css-class class will have a lightgray background. */
+.css-class {
+  background-color: lightgray;
+}
+
+/* rule set #3: All h1 tags within the css-class class will have a font-size of 18 pixels.*/
+.css-class h1 {
+  font-size: 18px;
+}
+
+/* rule set #4: All of the p tags within a css-class class will have orangered font 16 pixels high. */
+.css-class p {
+  font-size: 16px;
+  color: rgb(94, 8, 58);
+}
+
+/* rule set #5: All the li items within the css-class class will have a blue font. */
+.css-class li {
+  color: navy;
+}
+
+#walmartDepartment{
+  background-color: aqua; 
+}
+.css-class{ 
+  border: 7px solid rgb(236, 139, 199);
+  margin: 5px;
+  padding: 20px 20px 20px 40px;
+}
+
+li{
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+   font-size: 15px;
+   margin-top: 1rem;
+
+}
+P{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.css-class img {
+  width: 1150px;
+  height: 50%;
+}
